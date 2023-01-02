@@ -1,0 +1,15 @@
+Timestamp,Player 1 Name,Player 1 Symbol,Player 1 Type,Player 2 Name,Player 2 Symbol,Player 2 Type,Winner,Move Count
+2023-01-01 13:47:29.247347,Darius,X,Human,Bob,O,Bot,X,7
+2023-01-01 13:48:16.282372,Darius,X,Human,Bob,O,Bot,X,7
+2023-01-01 16:18:04.194381,Darius,X,Human,Bob,O,Bot,O,6
+2023-01-01 19:48:56.128530,Darius,X,Human,Bob,O,Bot,None-Draw,9
+2023-01-01 19:52:09.280438,Darius,X,Human,Alice,O,Bot,X,7
+2023-01-01 20:01:12.419610,Alice,X,Bot,Bob,O,Bot,None-Draw,9
+2023-01-01 20:19:23.679454,Darius,X,Human,Alice,O,Bot,None-Draw,9
+2023-01-01 20:36:26.934828,Darius,X,Human,Alice,O,Bot,O,6
+2023-01-01 20:37:46.325451,Darius,X,Human,Alice,O,Bot,O,6
+2023-01-01 20:40:11.461409,Darius,X,Human,Bob,O,Bot,O,8
+2023-01-01 21:08:00.282192,Darius,X,Human,Bob,O,Bot,O,6
+2023-01-01 21:09:37.871581,Alice,X,Bot,Bob,O,Bot,None-Draw,9
+2023-01-01 21:13:03.569473,Darius,X,Human,Alice,O,Bot,None-Draw,9
+2023-01-01 21:19:19.533922,Alice,X,Bot,Bob,O,Bot,None-Draw,9
