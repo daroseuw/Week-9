@@ -5,7 +5,7 @@
 <html>
 
 <head>
-    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="./styles.css">
+    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="static/styles.css">
     <style>
         
     </style>
@@ -15,7 +15,8 @@
     <h1><center>Welcome to Tic-Tac-Toe</center></h1>
 
     <h3><center>Please make a selection for your game below:</center></h3>
-    <form action="http://127.0.0.1:5000/startgame" method="POST">
+    <!-- <form action="http://127.0.0.1:5000/play" method="POST"> -->
+    <form method="post">
         <fieldset>
             <!-- <legend><h4></h4></legend> -->
             <div class="three-col-head">
@@ -65,7 +66,8 @@
 
             </div></p>
             
-        <p><button>Start New Game</button></p>
+        <!-- <p><button>Start New Game</button></p> -->
+        <p><input type="submit" name="start_game" value="Game Start"></p>
     </form>
 </body>
 </html>
